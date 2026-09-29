@@ -1,0 +1,12 @@
+{
+  "collectionName": "users2",
+  "fields": {
+    "description": "String",
+    "duedate": "String",
+    "created_at": "DateTime",
+    "modified_at": "DateTime",
+    "isActive": "Boolean",
+    "sale_price": "Double",
+    "title": "String"
+  }
+}

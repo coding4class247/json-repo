@@ -1,0 +1,8 @@
+{
+  "collectionName": "Users",
+  "fields": {
+    "email": "String",
+    "uid": "String",
+    "created_time": "DateTime"
+  }
+}
